@@ -1,4 +1,4 @@
--Introducci¢n a la l¡nea de comandos 
--Windows 
--Linux 
--Mac 
+- Introduccion a la linea de comandos 
+- Windows 
+- Linux 
+- Mac 
